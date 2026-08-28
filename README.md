@@ -77,7 +77,7 @@ The main objectives were to build an end-to-end data pipeline capable of:
 
 # 🏗️ Architecture
 
-![Retail Sales Analytics Lakehouse Architecture](architecture.png)
+![Retail Sales Analytics Lakehouse Architecture](Archetecture.png)
 
 ### High-Level Flow
 
