@@ -800,21 +800,6 @@ into Databricks SQL and connect it to the `retail_metrics` semantic dataset.
 
 ---
 
-# 📌 Resume Project Description
-
-### Retail Sales Analytics Lakehouse | Databricks, PySpark, SQL, Delta Lake
-
-- Built an end-to-end **Databricks Lakehouse pipeline** using Bronze-Silver-Gold architecture to integrate retail transactions, Salesforce accounts/opportunities, product catalog, and inventory data.
-- Implemented **Auto Loader and Lakeflow Declarative Pipelines** with schema tracking, checkpoints, data-quality expectations, cleansing, standardization, and incremental processing.
-- Developed **Gold-layer fact and dimension models**, including `fact_sales`, customer, product, inventory, and calendar models, and created a reusable semantic metrics layer powering a Databricks SQL sales-performance dashboard.
-
----
-
-# 💡 Interview Explanation
-
-> “I built a Retail Sales Analytics Lakehouse on Databricks to solve the problem of integrating retail data coming from multiple operational sources. I implemented a Bronze-Silver-Gold architecture. In Bronze, I ingested transaction CSV data using Auto Loader and maintained schema and checkpoint information. In Silver, I used PySpark and Lakeflow Declarative Pipelines to clean and standardize transactions, customers, opportunities, products, and inventory while applying data-quality expectations. In Gold, I integrated transactions with opportunities and created a fact-sales model along with customer, product, inventory, and calendar dimensions. Finally, I created a semantic metrics layer with reusable KPIs such as total revenue, transaction count, quantity sold, average transaction value, and unique customers, which I used to build a Databricks SQL dashboard for sales analysis.”
-
----
 
 ## 👨‍💻 Skills Demonstrated
 
